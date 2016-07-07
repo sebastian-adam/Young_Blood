@@ -1,0 +1,17 @@
+body {
+  font-family:monospace;
+  }
+
+.container {
+  width: 100%;
+  text-align: center;
+}
+
+#landing_page img {
+  max-width: 200px;
+  margin-top: 20%
+}
+
+#landing_page, #region_hub {
+  display: none;
+}
